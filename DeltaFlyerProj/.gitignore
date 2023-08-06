@@ -73,3 +73,5 @@ crashlytics-build.properties
 
 # Project specific
 /Assets/ThirdParty
+/Assets/Editor/Shelf*
+/Assets/FR2*
